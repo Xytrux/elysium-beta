@@ -11,4 +11,4 @@ javac DDD.java && java DDD
 
 ## Screenshots
 
-SoonTM
+![Image](https://github.com/Xytrux/elysium-beta/blob/main/elysium.png?raw=true)
